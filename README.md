@@ -9,7 +9,7 @@
 
   <h1>Hi 👋, I'm Ritik Kumar Sharma</h1>
 
-  <h3>Electrical Engineer | Aspiring SDE | Data Analyst | Technology Enthusiast</h3>
+  <h3>Electrical Engineer | SDE | Data Analyst | Technology Enthusiast</h3>
 
   <p>
     Building solutions through Code, Data & Engineering.
